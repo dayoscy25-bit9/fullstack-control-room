@@ -68,7 +68,7 @@ function App() {
   if (!trace) {
     return (
       <div className="app">
-        <h1>FullStack Control Room</h1>
+        <h1>FullStack Control Room -Git test</h1>
 
         <p>Cargando trace...</p>
       </div>
